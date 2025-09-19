@@ -11,9 +11,10 @@ I received a take-home asking me to follow the provided Figma layout and build a
 
 GitHub Pages: https://mic175.github.io/Assignment-for-Ideomethod-Technologies/
 
-# Tech stack
+## Tech stack
+- HTML5 (semantic landmarks)
+- Modern CSS (Flex/Grid, mobile-first)
+- Vanilla JS (menu toggle, smooth scroll, simple intersection observer)
 
-HTML5 for structure 
-Modern CSS 
-Vanilla JS 
-No build tools, no frameworks — easy to read and review
+## Run locally
+- Clone and open `index.html` in a browser. No build step.

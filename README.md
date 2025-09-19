@@ -9,7 +9,7 @@ I received a take-home asking me to follow the provided Figma layout and build a
 
 # Live demo
 
-GitHub Pages: 
+GitHub Pages: https://mic175.github.io/Assignment-for-Ideomethod-Technologies/
 
 # Tech stack
 

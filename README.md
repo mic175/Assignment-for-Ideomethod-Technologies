@@ -19,7 +19,7 @@ I received a take-home asking me to follow the provided Figma layout and build a
 ## Run locally
 - Clone and open `index.html` in a browser. No build step.
 
-## 📧 Contact
+## Contact
 
 - Name: Lucas Chen
 - Email: cmy20030713@gmail.com

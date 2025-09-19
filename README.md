@@ -4,11 +4,9 @@ Built from a Figma reference (“Luxury Yacht” layout) and implemented with se
 
 
 # Why this exists
-
 I received a take-home asking me to follow the provided Figma layout and build a responsive homepage (any relevant topic allowed). I chose the original “yacht” theme and focused on clean structure, accessibility, and responsiveness rather than heavy frameworks.
 
 # Live demo
-
 - GitHub Pages: https://mic175.github.io/Assignment-for-Ideomethod-Technologies/
 
 ## Tech stack
@@ -20,7 +18,6 @@ I received a take-home asking me to follow the provided Figma layout and build a
 - Clone and open `index.html` in a browser. No build step.
 
 ## Contact
-
 - Name: Lucas Chen
 - Email: cmy20030713@gmail.com
 - University: University of Pittsburgh

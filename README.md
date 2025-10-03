@@ -3,17 +3,17 @@
 A responsive, single-page application for a luxury yacht rental service.
 Originally built in plain HTML/CSS, the project has been migrated to React (Vite) with client-side routing and GitHub Pages deployment.
 
-# Why this exists
+## Why this exists
 
 A take-home challenge to convert a static landing page into a small multi-page app (SPA) while keeping the original look/feel, accessibility, and responsiveness — and to demonstrate modern tooling and deployment.
 
-# Live demo & repository
+## Live demo & repository
 
 - Live demo: https://mic175.github.io/Assignment-for-Ideomethod-Technologies/
 
 - Repository: https://github.com/mic175/Assignment-for-Ideomethod-Technologies
 
-# Tech stack
+## Tech stack
 
 - React 19 + Vite (fast dev server & bundling)
 
@@ -23,7 +23,7 @@ A take-home challenge to convert a static landing page into a small multi-page a
 
 - gh-pages for one-command deployment to GitHub Pages
 
-# App routes
+## App routes
 
 - / – Home (hero + value props)
 

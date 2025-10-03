@@ -1,4 +1,4 @@
-###Luxury Yacht Rentals — Responsive React SPA
+### Luxury Yacht Rentals — Responsive React SPA
 
 A responsive, single-page application for a luxury yacht rental service.
 Originally built in plain HTML/CSS, the project has been migrated to React (Vite) with client-side routing and GitHub Pages deployment.

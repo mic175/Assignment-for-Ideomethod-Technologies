@@ -3,9 +3,6 @@
 A responsive, single-page application for a luxury yacht rental service.
 Originally built in plain HTML/CSS, the project has been migrated to React (Vite) with client-side routing and GitHub Pages deployment.
 
-## Why this exists
-
-A take-home challenge to convert a static landing page into a small multi-page app (SPA) while keeping the original look/feel, accessibility, and responsiveness — and to demonstrate modern tooling and deployment.
 
 ## Live demo & repository
 
@@ -33,4 +30,7 @@ A take-home challenge to convert a static landing page into a small multi-page a
 
 - /contact – Contact (phone, email, location + mailto CTA)
 
-Refresh on sub-routes works via a 404.html copy step in deployment.
+## 📧 Contact
+Name: Lucas Chen
+Email: cmy20030713@gmail.com
+GitHub: @mic175

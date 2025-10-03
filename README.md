@@ -31,6 +31,6 @@ Originally built in plain HTML/CSS, the project has been migrated to React (Vite
 - /contact – Contact (phone, email, location + mailto CTA)
 
 ## 📧 Contact
-Name: Lucas Chen
-Email: cmy20030713@gmail.com
-GitHub: @mic175
+- Name: Lucas Chen
+- Email: cmy20030713@gmail.com
+- GitHub: @mic175

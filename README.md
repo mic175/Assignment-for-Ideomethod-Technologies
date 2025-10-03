@@ -17,13 +17,13 @@ Repository: https://github.com/mic175/Assignment-for-Ideomethod-Technologies
 
 - React 19 + Vite (fast dev server & bundling)
 
-React Router for client-side navigation
+- React Router for client-side navigation
 
-CSS (no frameworks) for clarity and easy review
+- CSS (no frameworks) for clarity and easy review
 
-gh-pages for one-command deployment to GitHub Pages
+- gh-pages for one-command deployment to GitHub Pages
 
-App routes
+#App routes
 
 / – Home (hero + value props)
 

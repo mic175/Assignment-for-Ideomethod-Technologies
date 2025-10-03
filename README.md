@@ -1,16 +1,36 @@
-# React + Vite
+#Luxury Yacht Rentals — Responsive React SPA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive, single-page application for a luxury yacht rental service.
+Originally built in plain HTML/CSS, the project has been migrated to React (Vite) with client-side routing and GitHub Pages deployment.
 
-Currently, two official plugins are available:
+#Why this exists
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A take-home challenge to convert a static landing page into a small multi-page app (SPA) while keeping the original look/feel, accessibility, and responsiveness — and to demonstrate modern tooling and deployment.
 
-## React Compiler
+#Live demo & repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Live demo: https://mic175.github.io/Assignment-for-Ideomethod-Technologies/
 
-## Expanding the ESLint configuration
+Repository: https://github.com/mic175/Assignment-for-Ideomethod-Technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#Tech stack
+
+- React 19 + Vite (fast dev server & bundling)
+
+React Router for client-side navigation
+
+CSS (no frameworks) for clarity and easy review
+
+gh-pages for one-command deployment to GitHub Pages
+
+App routes
+
+/ – Home (hero + value props)
+
+/fleet – Rent a Yacht (yacht cards/specs/pricing)
+
+/services – Services (catering, water sports, routes, maintenance)
+
+/contact – Contact (phone, email, location + mailto CTA)
+
+Refresh on sub-routes works via a 404.html copy step in deployment.
